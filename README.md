@@ -1,4 +1,4 @@
-# Cartographer — A Lightweight E-Commerce Reranker
+# Cartographer : A Lightweight E-Commerce Reranker
 
 A small, fast cross-encoder that scores how well a shopping query matches a product,
 fine-tuned to beat the general-purpose reranker it replaces on real e-commerce search data.
