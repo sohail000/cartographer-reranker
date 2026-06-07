@@ -5,6 +5,10 @@ fine-tuned to beat the general-purpose reranker it replaces on real e-commerce s
 
 **Model on Hugging Face:** [2013khansohail/cartographer-ecommerce-reranker-MiniLM-L6-v2](https://huggingface.co/2013khansohail/cartographer-ecommerce-reranker-MiniLM-L6-v2)
 
+
+<img width="1774" height="887" alt="cartographer" src="https://github.com/user-attachments/assets/ff818b07-fa8c-455c-a46d-e67e54cffcf0" />
+
+
 ## What this is
 
 Off-the-shelf rerankers like `cross-encoder/ms-marco-MiniLM-L-6-v2` were trained on web-search
